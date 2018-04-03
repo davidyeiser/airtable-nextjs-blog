@@ -27,4 +27,4 @@ AIRTABLE_BASE_ID=appXXXXXX
 npm run dev
 ````
 
-Now go to `http://localhost:3000` and you should see your Airtable data. If you run into trouble, or have any questions, please feel free to file an issue.
+Now go to `http://localhost:3000` and you should see your Airtable data. If you run into trouble, have any questions, etc. feel free to file an issue.
