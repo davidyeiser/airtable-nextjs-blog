@@ -1,4 +1,5 @@
-This is the companion repository to the tutorial [How to Create a Blog with the Airtable API & Next.js](https://davidyeiser.com/tutorial/how-to-create-blog-airtable-api-next-js)
+This is the companion repository to the tutorial:
+**[How to Create a Blog with the Airtable API & Next.js](https://davidyeiser.com/tutorial/how-to-create-blog-airtable-api-next-js)**.
 
 ## Setup
 
