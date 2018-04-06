@@ -22,7 +22,15 @@ AIRTABLE_API_KEY=keyXXXXXX
 AIRTABLE_BASE_ID=appXXXXXX
 ````
 
-3. Start Next with:
+## Run
+
+1. First start the Redis server with:
+
+````
+redis-server
+````
+
+2. Then Start Next with:
 
 ````
 npm run dev
