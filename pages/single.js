@@ -4,36 +4,12 @@ import Layout from '../components/Layout'
 import Post from '../components/Post'
 
 class Single extends React.Component {
-  constructor() {
-    super()
-
-    this.state = {
-      airtablePost: {}
-    }
-  }
-
-  componentDidMount() {
-    const {
-      title,
-      content,
-      publish_date
-    } = this.props
-
-    this.setState({
-      airtablePost: {
-        title,
-        content,
-        publish_date
-      }
-    })
-  }
-
   render() {
     const {
       title,
       content,
       publish_date
-    } = this.state.airtablePost
+    } = this.props
 
     return (
       <Layout>
