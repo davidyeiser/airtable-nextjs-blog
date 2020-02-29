@@ -1,6 +1,10 @@
+## NOTE
+
+**This repository and companion tutorial have been retired**. No further updates will be made. See the [note on the tutorial](https://davidyeiser.com/tutorials/how-to-create-blog-airtable-api-next-js) for more information.
+
 ## Tutorial
 
-This is the companion repository for the tutorial: 
+This is the companion repository for the tutorial:
 
 **[How to Create a Blog with the Airtable API & Next.js](https://davidyeiser.com/tutorial/how-to-create-blog-airtable-api-next-js)**.
 
@@ -8,7 +12,7 @@ This is the companion repository for the tutorial:
 
 You’ll need an Airtable account with an API key. The sample code is matched to a table structured like so:
 
-![Screenshot of Table in Airtable](https://davidyeiser.com/static/images/tutorial-ex-airtable-blog-setup.png)
+![Screenshot of Table in Airtable](https://davidyeiser.com/images/general/tutorial-ex-airtable-blog-setup.png)
 
 ## Install
 
